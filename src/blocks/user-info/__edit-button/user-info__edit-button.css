@@ -1,0 +1,19 @@
+.user-info__edit-button {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 24px;
+    padding: 4px 10px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+.user-info__edit-button:hover {
+    background-color: #fff;
+    border: 1px solid #000;
+    color: #000;
+}
