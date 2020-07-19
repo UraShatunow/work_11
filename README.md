@@ -1,6 +1,8 @@
 
-Ссылка на проект: https://urashatunow.github.io/work_11/
+### Ссылка на проект: https://urashatunow.github.io/work_11/
+
+# Mesto
 
 Работа на тему сборки проекта с помощью webpack, babel и других технологий.
 
-Автор: Ивашкин Кирилл.
+### Автор: Ивашкин Кирилл.
